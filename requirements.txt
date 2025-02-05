@@ -1,0 +1,8 @@
+sounddevice
+soundfile
+keyboard
+numpy
+google-genai
+opencv-python
+mss
+pyttsx3

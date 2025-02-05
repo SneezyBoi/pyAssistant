@@ -10,3 +10,7 @@ Uses Google's Gemini 2.0 Flash Experimental to act as an AI companion
 * UI for ease of management (to-do)
   * [ ] Gemini 2.0 Key Management (to-do)
   * [ ] Device Selection for Microphone and screen recording (to-do)
+
+## License
+
+This Project is using the GPL-3.0 License
