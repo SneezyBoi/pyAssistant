@@ -10,7 +10,7 @@ import keyboard  # For detecting hotkeys
 import mss  # For screen capture
 
 class RollingVideoBuffer:
-    def __init__(self, video_duration=30, audio_duration=30, frame_rate=30, audio_rate=44100):
+    def __init__(self, video_duration=30, audio_duration=30, frame_rate=5, audio_rate=44100):
         self.video_duration = video_duration  # in seconds
         self.audio_duration = audio_duration  # in seconds
         self.frame_rate = frame_rate
